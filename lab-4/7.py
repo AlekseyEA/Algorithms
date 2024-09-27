@@ -1,6 +1,3 @@
-#переписать
-#не работает
-
 import time
 import tracemalloc
 import random
